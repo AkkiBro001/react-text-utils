@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.14fb45d1.css","mappings":"AAAA,KACI,kBACJ,CAGA,+BACQ,wBAAiB,CAAjB,gBACR","sources":["textUtils/textUtils.css"],"sourcesContent":["body{\r\n    background: #ebeced;\r\n}\r\n\r\n/*for Invert Arrows in dark-mode */\r\n.accordion-button.invert::after{\r\n        filter: invert(1);\r\n}"],"names":[],"sourceRoot":""}
